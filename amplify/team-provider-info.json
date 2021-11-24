@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chainvestcapitalde-dev-223017-authRole",
+      "UnauthRoleArn": "arn:aws:iam::537184948641:role/amplify-chainvestcapitalde-dev-223017-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::537184948641:role/amplify-chainvestcapitalde-dev-223017-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-chainvestcapitalde-dev-223017-deployment",
+      "UnauthRoleName": "amplify-chainvestcapitalde-dev-223017-unauthRole",
+      "StackName": "amplify-chainvestcapitalde-dev-223017",
+      "StackId": "arn:aws:cloudformation:eu-central-1:537184948641:stack/amplify-chainvestcapitalde-dev-223017/b93b2d80-4d6d-11ec-9d6b-06f1a7c48378",
+      "AmplifyAppId": "d2aus9i5jaho1e"
+    }
+  }
+}
